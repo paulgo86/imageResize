@@ -1,0 +1,23 @@
+{
+  "name": "resize_image",
+  "version": "1.0.0",
+  "description": "knock server image resizing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulgo86/imageResize.git"
+  },
+  "keywords": [
+    "image",
+    "resize"
+  ],
+  "author": "PaulGo@ABROSS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulgo86/imageResize/issues"
+  },
+  "homepage": "https://github.com/paulgo86/imageResize#readme"
+}
